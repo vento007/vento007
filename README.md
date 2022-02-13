@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vento007
 - 
-- 👀 I’m interested in Go Lang, Dart/Flutter
-- 🌱 I’m currently creating various mobile apps, backend APIs
+- 👀 Go Lang, Dart/Flutter, js/ts/node, firebase/mongodb/postgres
+- 🌱 mobile + backend
 - 💞️ I’m looking to collaborate on Mobile Apps
 - 📫 PM me somehow
 
