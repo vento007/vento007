@@ -1,8 +1,7 @@
 - @vento007
 - 
-- Go Lang, Dart/Flutter, js/ts/node, firebase/mongodb/postgres
-- mobile + backend
-- I’m looking to collaborate on Mobile Apps
+- Dart/Flutter, js/ts/node, firebase/mongodb/postgres etc
+- mobile/web + backend
 - PM me somehow
 
 <!---
