@@ -1,8 +1,8 @@
 - @vento007
 - 
-- Dart/Flutter, js/ts/node, firebase/mongodb/postgres etc
-- mobile/web + backend
-- PM me somehow
+- Dart/Flutter, python, a bit of go/rust, DBs, backends, json/grpc/ws etc
+- mobile/web/desktop + backend
+  
 
 <!---
 vento007/vento007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
